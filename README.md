@@ -4,7 +4,7 @@
 
   <a href="https://github.com/Andr0idx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andr0idx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="115em" with="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andr0idx&layout=compact&langs_count=7&theme=dark"/>
+  <img height="118em" with="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andr0idx&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
