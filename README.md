@@ -1,6 +1,6 @@
 ## Olá! Me chamo Gabriel Guedes, seja bem vindo! 😄
 - 🌱 Atualmente estudo Analise e desenvolvimento de sistemas (UDF) 
-- ⚡ Aprendendo JAVASCRIPT, HTML, CSS e PHYON (UDEMY)
+- ⚡ Aprendendo JAVASCRIPT, HTML, CSS e PHYTON (UDEMY)
 
   <a href="https://github.com/Andr0idx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andr0idx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
